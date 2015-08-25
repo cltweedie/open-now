@@ -1,0 +1,18 @@
+.main {
+  background: url('../img/bg.jpg');
+  background-size: cover;
+  height: 900px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+
+.jumbotron .container {
+  margin-top: 50px;
+}
+
+.enter-postcode {
+  margin-top: 50px;
+}
